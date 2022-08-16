@@ -1,2 +1,4 @@
 # habersayfam
-BTK Akademi Erzurum Frontend Developer 2. gün sabah
+BTK Akademi Erzurum Frontend Developer 2. gün 
+
+![](image.jpg)
